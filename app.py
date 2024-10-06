@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-#data_customer_demo=pd.read_csv("C:\\Users\\GOURI SHANKAR KONDRA\\Downloads\\INTERN\\CustomerDemographics.csv")
+data_customer_demo=pd.read_csv("C:\\Users\\GOURI SHANKAR KONDRA\\Downloads\\INTERN\\CustomerDemographics.csv")
 data_retail1_=pd.read_csv("C:\\Users\\GOURI SHANKAR KONDRA\\Downloads\\INTERN\\Transactional_data_retail_01.csv")
 data_retail2_=pd.read_csv("C:\\Users\\GOURI SHANKAR KONDRA\\Downloads\\INTERN\\Transactional_data_retail_02.csv")
 
